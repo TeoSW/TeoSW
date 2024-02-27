@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://c8.alamy.com/comp/2CA74NA/front-end-development-minimal-infographic-banner-vector-2CA74NA.jpg))](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Ffront-end-development-banner--515240013601373107%2F&psig=AOvVaw1XNvFAxl4F8DFvBPXdHxbM&ust=1709140570110000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDg3_aCzIQDFQAAAAAdAAAAABAJ)]
 <h1 align="center">Hi 👋, I'm Teodor Constantin</h1>
 <h3 align="center">A passionate IT learner from Romania</h3>
 
