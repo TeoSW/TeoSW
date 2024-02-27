@@ -1,3 +1,4 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://c8.alamy.com/comp/2CA74NA/front-end-development-minimal-infographic-banner-vector-2CA74NA.jpg))]
 <h1 align="center">Hi 👋, I'm Teodor Constantin</h1>
 <h3 align="center">A passionate IT learner from Romania</h3>
 
