@@ -4,7 +4,7 @@
 
 
 <div align="center">
- 🌱 I’m currently learning **Angular & JavaSpring**
+ 🌱 I’m currently learning **Angular**
 
  👨‍💻 All of my projects are available at [https://github.com/TeoSW?tab=repositories](https://github.com/TeoSW?tab=repositories)
 
