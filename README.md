@@ -2,14 +2,14 @@
 <h3 align="center">A passionate fullstack developer from Romania</h3>
 
 <p align="center">
-  - 🌱 I’m currently learning **Angular** -
+   🌱 I’m currently learning **Angular** 
 </p>
 
 <p align="center">
-- 👨‍💻 Some of my projects are available at [https://github.com/TeoSW?tab=repositories] -
+ 👨‍💻 Some of my projects are available at [https://github.com/TeoSW?tab=repositories] 
 </p>
 <p align="center">
-- 📫 How to reach me **cteodor4@gmail.com** -
+ 📫 How to reach me **cteodor4@gmail.com** 
 </p>
 
 <h3 align="center">Connect with me:</h3>
