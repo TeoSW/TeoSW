@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teo</h1>
-<h3 align="center">A passionate fullstack developer from Romania 🇷🇴</h3>
-<h4 align="center">I've been leaning Web Development for the last 2 years 👨🏻‍💻</h4>
+<h3 align="center">I've been leaning Web Development for the last 2 years 👨🏻‍💻</h3>
 
 <p align="center">
    🌱 I’m currently focusing on **Angular** 
