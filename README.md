@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-- 👨‍💻 Some of my projects are available at [https://github.com/TeoSW?tab=repositories](https://github.com/TeoSW?tab=repositories) -
+- 👨‍💻 Some of my projects are available at [https://github.com/TeoSW?tab=repositories] -
 </p>
 <p align="center">
 - 📫 How to reach me **cteodor4@gmail.com** -
