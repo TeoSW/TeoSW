@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Teo</h1>
-<h3 align="center">I've been leaning Web Development for the past 2 years 👨🏻‍💻</h3>
+<h3 align="center">I've learned Web Development for 3 years while also learning Statistics & Data Science 👨🏻‍💻</h3>
 
 <p align="center">
-   🌱 I’m currently focusing on **Angular** 
+   🌱 I’m currently focusing on **Python Machine Learning & Statistics** 
 </p>
 
 <p align="center">
@@ -11,6 +11,7 @@
 
 <p align="center">
  📫 How to reach me **cteodor4@gmail.com** 
+<a align="center" href="https://www.linkedin.com/in/teodor-vasile-constantin123"/>LinkedIn</a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
