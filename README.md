@@ -10,8 +10,10 @@
 </p>
 
 <p align="center">
- 📫 How to reach me **cteodor4@gmail.com** 
-<a align="center" href="https://www.linkedin.com/in/teodor-vasile-constantin123"/>LinkedIn</a>
+ 📫**cteodor4@gmail.com** <br>
+<a align="center" href="https://www.linkedin.com/in/teodor-vasile-constantin123"/>
+   📫**LinkedIn**
+</a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
