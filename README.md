@@ -20,11 +20,11 @@
 <a align="center" href="https://www.linkedin.com/in/teodor-vasile-constantin123"/>
    LinkedIn
 </a>
+
 <p>
       **
 </p>
-   
-</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
