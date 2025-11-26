@@ -13,11 +13,8 @@
    📫cteodor4@gmail.com*
 <br>
 
-<div align="center">
-   <p>
-         📫
-   </p>
-   
+<div align="center"> 
+   📫
    <a align="center" href="https://www.linkedin.com/in/teodor-vasile-constantin123"/>
       LinkedIn
    </a>  
