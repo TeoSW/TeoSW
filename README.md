@@ -10,10 +10,20 @@
 </p>
 
 <p align="center">
- 📫**cteodor4@gmail.com** <br>
+   📫**cteodor4@gmail.com** 
+<br>
+
+<p>
+      📫**
+</p>
+   
 <a align="center" href="https://www.linkedin.com/in/teodor-vasile-constantin123"/>
-   📫**LinkedIn**
+   LinkedIn
 </a>
+<p>
+      **
+</p>
+   
 </p>
 
 <h3 align="center">Connect with me:</h3>
