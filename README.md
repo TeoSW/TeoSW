@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-   📫cteodor4@gmail.com*
+   📫 cteodor4@gmail.com*
 <br>
 
 <div align="center"> 
