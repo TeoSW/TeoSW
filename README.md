@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teo</h1>
-<h3 align="center">I've learned Web Development for 3 years while also learning Statistics & Data Science 👨🏻‍💻</h3>
+<h3 align="center">I've learned Web Development, Statistics & Data Science for the past 3 years👨🏻‍💻</h3>
 
 <p align="center">
    🌱 I’m currently focusing on **Python Machine Learning & Statistics** 
