@@ -58,5 +58,5 @@
 
 <h3 align="center">📊 Most Used Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teosw&show_icons=true&locale=en&layout=compact" alt="teosw" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=teosw&layout=compact&langs_count=8" alt="teosw" />
 </p>
