@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Teo</h1>
-<h3 align="center">Web Development, Statistics & Data Science enthusiast with 4+ years of experience 👨🏻‍💻</h3>
+<h3 align="center">Data Analyst, Data Scientist and Web Developer with 4+ years of experience 👨🏻‍💻</h3>
 
 <p align="center">
-  🌱 Currently focusing on <strong>Python, Machine Learning & Statistics</strong>
+  🌱 Currently focusing on <strong>Machine Learning & Data Visualisation</strong>
 </p>
 
 <p align="center">
