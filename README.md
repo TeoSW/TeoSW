@@ -65,9 +65,4 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 </p>
 
----
 
-<h3 align="center">📊 Most Used Languages</h3>
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=teosw&layout=compact&langs_count=8" alt="teosw" />
-</p>
